@@ -102,18 +102,21 @@ For claims about prevention or fair cross-country comparison, **age-standardized
 
 `bash` + `jq` (JSON extraction) · Python (`json`, `glob`, `re`) · PostgreSQL (`PERCENTILE_CONT`) · Tableau Public (visualization)
 
-## Data attribution & license
+## License
 
-Data © World Health Organization — [Global Health Estimates](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates).
+This repository mixes original work and third-party data under **two different licenses**:
 
-- **Copyright / license:** [CC BY-NC-SA 3.0 IGO](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)
-- **Permission type:** Public
+- **Code** (scripts, SQL, README, generated chart) — [MIT License](LICENSE) © 2026 Oleksandr Synichenko.
+- **Data** — © World Health Organization, Global Health Estimates, under [CC BY-NC-SA 3.0 IGO](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/). The MIT license does **not** cover the WHO data.
+
+### Data attribution (WHO)
+
+Data © World Health Organization — [Global Health Estimates](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates). Permission type: **Public**.
 
 > WHO supports open access to the published output of its activities as a fundamental part of its mission and a public benefit to be encouraged wherever possible.
 
-This project is an independent analysis. WHO does **not** endorse and is **not** affiliated with this repository, its author, or any content, output, or analysis resulting from or related to `data.who.int`. The WHO emblem / `datadot` logo is not used here, in line with WHO policy.
+This project is an independent analysis. WHO does **not** endorse and is **not** affiliated with this repository, its author, or any content, output, or analysis resulting from or related to `data.who.int`. The WHO emblem / `datadot` logo is not used here, in line with WHO policy. For details, see the [WHO copyright policy](https://www.who.int/about/policies/publishing/copyright).
 
-For details, see the [WHO copyright policy](https://www.who.int/about/policies/publishing/copyright).
 
 ## Author
 
