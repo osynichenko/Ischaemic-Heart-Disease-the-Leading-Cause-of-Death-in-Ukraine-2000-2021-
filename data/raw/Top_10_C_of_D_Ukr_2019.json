@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://xmart-api-public.who.int/DEX_CMS/$metadata#GHE_FULL",
+  "value": [
+    {
+      "DIM_GHECAUSE_CODE": 1130,
+      "DIM_GHECAUSE_TITLE": "Ischaemic heart disease",
+      "VAL_DALY_RATE100K_NUMERIC": 12139.6,
+      "VAL_DTHS_RATE100K_NUMERIC": 680.16
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1140,
+      "DIM_GHECAUSE_TITLE": "Stroke",
+      "VAL_DALY_RATE100K_NUMERIC": 3914.08,
+      "VAL_DTHS_RATE100K_NUMERIC": 188.75
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1230,
+      "DIM_GHECAUSE_TITLE": "Cirrhosis of the liver",
+      "VAL_DALY_RATE100K_NUMERIC": 1413.63,
+      "VAL_DTHS_RATE100K_NUMERIC": 35.89
+    },
+    {
+      "DIM_GHECAUSE_CODE": 950,
+      "DIM_GHECAUSE_TITLE": "Alzheimer disease and other dementias",
+      "VAL_DALY_RATE100K_NUMERIC": 702.81,
+      "VAL_DTHS_RATE100K_NUMERIC": 35.46
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1150,
+      "DIM_GHECAUSE_TITLE": "Cardiomyopathy, myocarditis, endocarditis",
+      "VAL_DALY_RATE100K_NUMERIC": 1102.44,
+      "VAL_DTHS_RATE100K_NUMERIC": 34.31
+    },
+    {
+      "DIM_GHECAUSE_CODE": 680,
+      "DIM_GHECAUSE_TITLE": "Trachea, bronchus, lung cancers",
+      "VAL_DALY_RATE100K_NUMERIC": 924.9,
+      "VAL_DTHS_RATE100K_NUMERIC": 32.12
+    },
+    {
+      "DIM_GHECAUSE_CODE": 650,
+      "DIM_GHECAUSE_TITLE": "Colon and rectum cancers",
+      "VAL_DALY_RATE100K_NUMERIC": 672.23,
+      "VAL_DTHS_RATE100K_NUMERIC": 26.02
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1610,
+      "DIM_GHECAUSE_TITLE": "Self-harm",
+      "VAL_DALY_RATE100K_NUMERIC": 1055.89,
+      "VAL_DTHS_RATE100K_NUMERIC": 23.29
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1180,
+      "DIM_GHECAUSE_TITLE": "Chronic obstructive pulmonary disease",
+      "VAL_DALY_RATE100K_NUMERIC": 500.86,
+      "VAL_DTHS_RATE100K_NUMERIC": 17.22
+    },
+    {
+      "DIM_GHECAUSE_CODE": 640,
+      "DIM_GHECAUSE_TITLE": "Stomach cancer",
+      "VAL_DALY_RATE100K_NUMERIC": 401.15,
+      "VAL_DTHS_RATE100K_NUMERIC": 14.88
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://xmart-api-public.who.int/DEX_CMS/$metadata#GHE_FULL",
+  "value": [
+    {
+      "DIM_GHECAUSE_CODE": 1130,
+      "DIM_GHECAUSE_TITLE": "Ischaemic heart disease",
+      "VAL_DALY_RATE100K_NUMERIC": 14048.44,
+      "VAL_DTHS_RATE100K_NUMERIC": 701.94
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1140,
+      "DIM_GHECAUSE_TITLE": "Stroke",
+      "VAL_DALY_RATE100K_NUMERIC": 4894.48,
+      "VAL_DTHS_RATE100K_NUMERIC": 226.41
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1230,
+      "DIM_GHECAUSE_TITLE": "Cirrhosis of the liver",
+      "VAL_DALY_RATE100K_NUMERIC": 1859.72,
+      "VAL_DTHS_RATE100K_NUMERIC": 45.09
+    },
+    {
+      "DIM_GHECAUSE_CODE": 100,
+      "DIM_GHECAUSE_TITLE": "HIV/AIDS",
+      "VAL_DALY_RATE100K_NUMERIC": 1924.95,
+      "VAL_DTHS_RATE100K_NUMERIC": 34.7
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1180,
+      "DIM_GHECAUSE_TITLE": "Chronic obstructive pulmonary disease",
+      "VAL_DALY_RATE100K_NUMERIC": 894.3,
+      "VAL_DTHS_RATE100K_NUMERIC": 33.88
+    },
+    {
+      "DIM_GHECAUSE_CODE": 680,
+      "DIM_GHECAUSE_TITLE": "Trachea, bronchus, lung cancers",
+      "VAL_DALY_RATE100K_NUMERIC": 993.56,
+      "VAL_DTHS_RATE100K_NUMERIC": 33.69
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1150,
+      "DIM_GHECAUSE_TITLE": "Cardiomyopathy, myocarditis, endocarditis",
+      "VAL_DALY_RATE100K_NUMERIC": 1197.98,
+      "VAL_DTHS_RATE100K_NUMERIC": 31.02
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1610,
+      "DIM_GHECAUSE_TITLE": "Self-harm",
+      "VAL_DALY_RATE100K_NUMERIC": 1327.24,
+      "VAL_DTHS_RATE100K_NUMERIC": 28.69
+    },
+    {
+      "DIM_GHECAUSE_CODE": 30,
+      "DIM_GHECAUSE_TITLE": "Tuberculosis",
+      "VAL_DALY_RATE100K_NUMERIC": 1234.46,
+      "VAL_DTHS_RATE100K_NUMERIC": 28.27
+    },
+    {
+      "DIM_GHECAUSE_CODE": 860,
+      "DIM_GHECAUSE_TITLE": "Alcohol use disorders",
+      "VAL_DALY_RATE100K_NUMERIC": 1575.1,
+      "VAL_DTHS_RATE100K_NUMERIC": 26.35
+    }
+  ]
+}

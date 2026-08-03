@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://xmart-api-public.who.int/DEX_CMS/$metadata#GHE_FULL",
+  "value": [
+    {
+      "DIM_GHECAUSE_CODE": 1130,
+      "DIM_GHECAUSE_TITLE": "Ischaemic heart disease",
+      "VAL_DALY_RATE100K_NUMERIC": 12384.56,
+      "VAL_DTHS_RATE100K_NUMERIC": 620.49
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1140,
+      "DIM_GHECAUSE_TITLE": "Stroke",
+      "VAL_DALY_RATE100K_NUMERIC": 4942.92,
+      "VAL_DTHS_RATE100K_NUMERIC": 231.4
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1180,
+      "DIM_GHECAUSE_TITLE": "Chronic obstructive pulmonary disease",
+      "VAL_DALY_RATE100K_NUMERIC": 1240.86,
+      "VAL_DTHS_RATE100K_NUMERIC": 48.92
+    },
+    {
+      "DIM_GHECAUSE_CODE": 680,
+      "DIM_GHECAUSE_TITLE": "Trachea, bronchus, lung cancers",
+      "VAL_DALY_RATE100K_NUMERIC": 1315.6,
+      "VAL_DTHS_RATE100K_NUMERIC": 44.23
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1610,
+      "DIM_GHECAUSE_TITLE": "Self-harm",
+      "VAL_DALY_RATE100K_NUMERIC": 1507.27,
+      "VAL_DTHS_RATE100K_NUMERIC": 33.33
+    },
+    {
+      "DIM_GHECAUSE_CODE": 30,
+      "DIM_GHECAUSE_TITLE": "Tuberculosis",
+      "VAL_DALY_RATE100K_NUMERIC": 1218.36,
+      "VAL_DTHS_RATE100K_NUMERIC": 28.14
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1230,
+      "DIM_GHECAUSE_TITLE": "Cirrhosis of the liver",
+      "VAL_DALY_RATE100K_NUMERIC": 1110.95,
+      "VAL_DTHS_RATE100K_NUMERIC": 27.83
+    },
+    {
+      "DIM_GHECAUSE_CODE": 650,
+      "DIM_GHECAUSE_TITLE": "Colon and rectum cancers",
+      "VAL_DALY_RATE100K_NUMERIC": 724.7,
+      "VAL_DTHS_RATE100K_NUMERIC": 26.48
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1150,
+      "DIM_GHECAUSE_TITLE": "Cardiomyopathy, myocarditis, endocarditis",
+      "VAL_DALY_RATE100K_NUMERIC": 948.65,
+      "VAL_DTHS_RATE100K_NUMERIC": 25.34
+    },
+    {
+      "DIM_GHECAUSE_CODE": 860,
+      "DIM_GHECAUSE_TITLE": "Alcohol use disorders",
+      "VAL_DALY_RATE100K_NUMERIC": 1504.22,
+      "VAL_DTHS_RATE100K_NUMERIC": 24.51
+    }
+  ]
+}

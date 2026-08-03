@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://xmart-api-public.who.int/DEX_CMS/$metadata#GHE_FULL",
+  "value": [
+    {
+      "DIM_GHECAUSE_CODE": 1130,
+      "DIM_GHECAUSE_TITLE": "Ischaemic heart disease",
+      "VAL_DALY_RATE100K_NUMERIC": 12214.09,
+      "VAL_DTHS_RATE100K_NUMERIC": 665.63
+    },
+    {
+      "DIM_GHECAUSE_CODE": 395,
+      "DIM_GHECAUSE_TITLE": "COVID-19",
+      "VAL_DALY_RATE100K_NUMERIC": 6244.28,
+      "VAL_DTHS_RATE100K_NUMERIC": 277.84
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1140,
+      "DIM_GHECAUSE_TITLE": "Stroke",
+      "VAL_DALY_RATE100K_NUMERIC": 3927.66,
+      "VAL_DTHS_RATE100K_NUMERIC": 185.58
+    },
+    {
+      "DIM_GHECAUSE_CODE": 950,
+      "DIM_GHECAUSE_TITLE": "Alzheimer disease and other dementias",
+      "VAL_DALY_RATE100K_NUMERIC": 728.44,
+      "VAL_DTHS_RATE100K_NUMERIC": 34.8
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1230,
+      "DIM_GHECAUSE_TITLE": "Cirrhosis of the liver",
+      "VAL_DALY_RATE100K_NUMERIC": 1297.05,
+      "VAL_DTHS_RATE100K_NUMERIC": 33.75
+    },
+    {
+      "DIM_GHECAUSE_CODE": 680,
+      "DIM_GHECAUSE_TITLE": "Trachea, bronchus, lung cancers",
+      "VAL_DALY_RATE100K_NUMERIC": 921.16,
+      "VAL_DTHS_RATE100K_NUMERIC": 32.39
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1150,
+      "DIM_GHECAUSE_TITLE": "Cardiomyopathy, myocarditis, endocarditis",
+      "VAL_DALY_RATE100K_NUMERIC": 1003.58,
+      "VAL_DTHS_RATE100K_NUMERIC": 31.46
+    },
+    {
+      "DIM_GHECAUSE_CODE": 650,
+      "DIM_GHECAUSE_TITLE": "Colon and rectum cancers",
+      "VAL_DALY_RATE100K_NUMERIC": 697.37,
+      "VAL_DTHS_RATE100K_NUMERIC": 27.18
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1610,
+      "DIM_GHECAUSE_TITLE": "Self-harm",
+      "VAL_DALY_RATE100K_NUMERIC": 933.47,
+      "VAL_DTHS_RATE100K_NUMERIC": 21.21
+    },
+    {
+      "DIM_GHECAUSE_CODE": 1180,
+      "DIM_GHECAUSE_TITLE": "Chronic obstructive pulmonary disease",
+      "VAL_DALY_RATE100K_NUMERIC": 506.68,
+      "VAL_DTHS_RATE100K_NUMERIC": 17.07
+    }
+  ]
+}
